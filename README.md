@@ -20,3 +20,8 @@ Kelas : TI.20.A.1 <br>
 
 * Jika muncul tampilan **git version**, berarti Git sudah **Berhasil di install** dan bisa di **gunakan** Langkah pertama kita harus **mengkorfirmasikan user name dan email di git**, dengan mengetikkan *syntax* berikut : <br>
 
+`git commit --global user.name "masukan nama anda"` <br>
+
+`git commit --global user.email "masukan email anda"` <br>
+
+![config-global](foto/config-global) <br>
