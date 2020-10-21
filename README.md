@@ -26,3 +26,14 @@ Kelas : TI.20.A.1 <br>
 
 ![config-global](foto/config-global.png) <br>
 
+* Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut : <br>
+
+`git config --global user.name` <br>
+
+`git config --global user.email` <br>
+
+![config--global](foto/config--global.png) <br>
+
+* Buat akun di **GitHub**,seperti contoh dibawah ini. Dan lakukan Verifikasi akun melalui email yang sudah terdaftar. <br>
+
+* Jika akun **GitHub** sudah selesai dibuat dan di verifikasi,proses selanjutnya silahkan buat Repository seperti gambar dibawah ini: **Penjelasan** <br>
