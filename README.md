@@ -1,10 +1,10 @@
 # LatihanVCS
 
-Nama : Riris Naomi Gurning <br>
+**Nama : Riris Naomi Gurning** <br>
 
-Nim : 312010190 <br>
+**Nim : 312010190** <br>
 
-Kelas : TI.20.A.1 <br>
+**Kelas : TI.20.A.1** <br>
 
 ## Langkah - Langkah Penggunaan git
 
@@ -55,3 +55,4 @@ Kelas : TI.20.A.1 <br>
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini : <br>
 
 ![latihan](foto/latihanvcs) <br>
+
