@@ -24,4 +24,5 @@ Kelas : TI.20.A.1 <br>
 
 `git commit --global user.email "masukan email anda"` <br>
 
-![config-global](foto/config-global) <br>
+![config-global](foto/config-global.png) <br>
+
