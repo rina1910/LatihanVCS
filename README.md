@@ -55,4 +55,3 @@ Kelas : TI.20.A.1 <br>
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini : <br>
 
 ![latihan](foto/latihanvcs) <br>
-
