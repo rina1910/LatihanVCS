@@ -1,5 +1,7 @@
 # LatihanVCS
 
+**Repository ini dibuat untuk memenuhi tugas Bahasa Pemrograman** <br>
+
 **Nama : Riris Naomi Gurning** <br>
 
 **Nim : 312010190** <br>
@@ -60,3 +62,23 @@
 
 ![codehttps](foto/codehttps.png) <br>
 
+* Setelah *Link URL* git kita *tercopy*, Silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan *mendownload* Repository dari Github ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here**. <br>
+
+![paste](foto/paste.png) <br>
+
+* *Pop Up* Command Prompt **(CMD)** akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut : <br>
+
+`git clone [URL] pada contohnya, saya akan memasukan git clone` <br>
+https://github.com/riris1910/LatihanVCS.git <br>
+
+![clone](foto/clone.png) <br>
+
+* Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu *LatihanVCS* dengan mengetikkan *syntax* berikut : <br>
+
+`cd LatihanVCS/` <br>
+
+![cd](foto/cd.png) <br>
+
+* Saat ini kita sudah masuk kedalam folder *LatihanVCS*, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor *(Sublime Text, Notepad, Notepad++, Visual Studio Code)*. Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : [click here](https://guides.github.com/features/mastering-markdown/) <br>
+
+![repos](foto/repos.png) <br>
