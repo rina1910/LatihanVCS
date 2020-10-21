@@ -54,5 +54,5 @@
 
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini : <br>
 
-![latihan](foto/latihanvcs) <br>
+![latihan](foto/latihanvcs.png) <br>
 
