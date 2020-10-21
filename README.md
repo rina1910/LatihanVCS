@@ -87,11 +87,23 @@ https://github.com/riris1910/LatihanVCS.git <br>
 
 * Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash **(CMD)**. Ketik pada Git Bash seperti berikut ini : <br>
 
-`git add .`
+`git add .` <br>
 
 ![add](foto/add.png) <br>
 
 * Setelah selesai melakukan *git add* . langkah berikutnya kita akan melakukan *commit*. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini : <br>
 
 `git commit "Update README.md"` <br>
+
+![commit](foto/commit.png) <br>
+
+* Git *commit* telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut : <br>
+
+`git pus` <br>
+
+![push](foto/push.png) <br>
+
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan push dari *remote*. <br>
+
+![vcs](foto/vcs.png) <br>
 
