@@ -64,7 +64,7 @@
 
 * Setelah *Link URL* git kita *tercopy*, Silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan *mendownload* Repository dari Github ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here**. <br>
 
-![paste](foto/paste.png) <br>
+![gitbash](foto/gitbash.png) <br>
 
 * *Pop Up* Command Prompt **(CMD)** akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut : <br>
 
@@ -107,3 +107,8 @@ https://github.com/riris1910/LatihanVCS.git <br>
 
 ![vcs](foto/vcs.png) <br>
 
+**SELESAI** 
+
+**TERIMA KASIH**
+
+*RIRIS NAOMI GURNING*
